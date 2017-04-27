@@ -1,6 +1,6 @@
 def make_album(artist, album):
-    dict = {artist: album}
-    return dict
+    new_dict = {artist: album}
+    return new_dict
 
     while True:
         print("\nPlease tell me your favourite Artist and Album: ")
